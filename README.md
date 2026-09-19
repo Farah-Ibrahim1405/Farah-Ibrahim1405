@@ -24,13 +24,10 @@ I'm interested in understanding how systems, networks, and applications work —
 _=>"hello world"
 ```
 
----
-
-###  Languages and Tools
 
 <div  align="center">
 
 ###  Connect with Me
 
-![LinkedIn](www.linkedin.com/in/farah-ibrahim-9579aa325)
-![Email](farahibrahim1405@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/farah-ibrahim-9579aa325)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](farahibrahim1405@gmail.com)
